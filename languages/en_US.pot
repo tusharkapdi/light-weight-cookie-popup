@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: lwcp2\n"
+"POT-Creation-Date: 2018-06-23 16:13+0530\n"
+"PO-Revision-Date: 2018-06-23 16:16+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ab-cookie-popup.php\n"
+
+#: ab-cookie-popup.php:60
+msgid "Settings Admin"
+msgstr ""
+
+#: ab-cookie-popup.php:61 ab-cookie-popup.php:77
+msgid "Light Weight Cookie Popup"
+msgstr ""
+
+#: ab-cookie-popup.php:103
+msgid "Settings"
+msgstr ""
+
+#: ab-cookie-popup.php:110
+msgid "Message"
+msgstr ""
+
+#: ab-cookie-popup.php:118
+msgid "Cookie Expiry"
+msgstr ""
+
+#: ab-cookie-popup.php:126
+msgid "Country"
+msgstr ""
+
+#: ab-cookie-popup.php:134
+msgid "Popup Position"
+msgstr ""
+
+#: ab-cookie-popup.php:142
+msgid "Popup Padding"
+msgstr ""
+
+#: ab-cookie-popup.php:150
+msgid "Popup Background Color"
+msgstr ""
+
+#: ab-cookie-popup.php:158
+msgid "Popup Text Color"
+msgstr ""
+
+#: ab-cookie-popup.php:166
+msgid "Popup Font Size"
+msgstr ""
+
+#: ab-cookie-popup.php:174
+msgid "Hide Close Button"
+msgstr ""
+
+#: ab-cookie-popup.php:182
+msgid "Close Button Text"
+msgstr ""
+
+#: ab-cookie-popup.php:190
+msgid "Hide Accept Button"
+msgstr ""
+
+#: ab-cookie-popup.php:198
+msgid "Accept Button Text"
+msgstr ""
+
+#: ab-cookie-popup.php:206
+msgid "Accept Button Background Color"
+msgstr ""
+
+#: ab-cookie-popup.php:214
+msgid "Accept Button Text Color"
+msgstr ""
+
+#: ab-cookie-popup.php:222
+msgid "Accept Button Class"
+msgstr ""
+
+#: ab-cookie-popup.php:230
+msgid "Hide Read More Link"
+msgstr ""
+
+#: ab-cookie-popup.php:238
+msgid "Read More Text"
+msgstr ""
+
+#: ab-cookie-popup.php:246
+msgid "Read More Link"
+msgstr ""
+
+#: ab-cookie-popup.php:254
+msgid "Reamore Link Target"
+msgstr ""
+
+#: ab-cookie-popup.php:262
+msgid "Reamore Link class"
+msgstr ""
+
+#: ab-cookie-popup.php:358
+msgid "Select position of popup"
+msgstr ""
+
+#: ab-cookie-popup.php:367
+msgid ""
+"Enter padding of popup box. i.e. `15px`, `15px 20px`, `15px 20px 15px 20px`"
+msgstr ""
+
+#: ab-cookie-popup.php:376
+msgid ""
+"Enter day(s) of cookie expiration. Set 0(zero) to show popup always. Default "
+"is 1 day"
+msgstr ""
+
+#: ab-cookie-popup.php:385
+msgid "Enter the message of popup"
+msgstr ""
+
+#: ab-cookie-popup.php:395
+msgid "All Countries"
+msgstr ""
+
+#: ab-cookie-popup.php:400
+msgid ""
+"Cookie Popup display in selected country. Hold down the control (ctrl) "
+"button to select multiple countries"
+msgstr ""
+
+#: ab-cookie-popup.php:400
+msgid "Note: Free usage of API is limited to 1,000 API requests per day"
+msgstr ""
+
+#: ab-cookie-popup.php:400
+msgid ""
+"Please find more inforamation about API here - https://ipinfo.io/"
+"developers#rate-limits"
+msgstr ""
+
+#: ab-cookie-popup.php:409
+msgid "You can use rgba for transparency. i.e. rgba(60,190,150,0.9)"
+msgstr ""
+
+#: ab-cookie-popup.php:418
+msgid "Choose text color"
+msgstr ""
+
+#: ab-cookie-popup.php:427
+msgid "Enter font size of message text. i.e. `13px`"
+msgstr ""
+
+#: ab-cookie-popup.php:437
+msgid "Checked to hide close button. Close button will also accept the cookie."
+msgstr ""
+
+#: ab-cookie-popup.php:446
+msgid "Enter close button text. Default is `x`"
+msgstr ""
+
+#: ab-cookie-popup.php:456
+msgid "Checked to hide accept button."
+msgstr ""
+
+#: ab-cookie-popup.php:465
+msgid "Enter accept button text. Default is `Ok`"
+msgstr ""
+
+#: ab-cookie-popup.php:475
+msgid "Choose accept button background color"
+msgstr ""
+
+#: ab-cookie-popup.php:484
+msgid "Choose accept button font color"
+msgstr ""
+
+#: ab-cookie-popup.php:493
+msgid "Enter accept button class name"
+msgstr ""
+
+#: ab-cookie-popup.php:503
+msgid "Checked to hide readmore link."
+msgstr ""
+
+#: ab-cookie-popup.php:512
+msgid "Enter readmore link text. Default is `Read more...`"
+msgstr ""
+
+#: ab-cookie-popup.php:521
+msgid "Enter readmore link URL. Start with `http(s)://`"
+msgstr ""
+
+#: ab-cookie-popup.php:530
+msgid "Select readmore link target"
+msgstr ""
+
+#: ab-cookie-popup.php:539
+msgid "Enter readmore link class name"
+msgstr ""
+
+#: ab-cookie-popup.php:626
+msgid ""
+"We use cookies to ensure that we give you the best experience on our "
+"website. If you continue to use this site we will assume that you are happy "
+"with it."
+msgstr ""
+
+#: ab-cookie-popup.php:664
+msgid "Ok"
+msgstr ""
+
+#: ab-cookie-popup.php:674
+msgid "Read more..."
+msgstr ""
+
+#: ab-cookie-popup.php:688
+msgid "x"
+msgstr ""
